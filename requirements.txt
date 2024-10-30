@@ -4,7 +4,7 @@ click
 dominate
 Flask
 Flask-Bootstrap
-Flask-CKEditor
+Flask-CKEditor==0.4.6
 Flask-Gravatar
 Flask-Login
 Flask-SQLAlchemy
